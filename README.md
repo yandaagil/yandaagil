@@ -1,10 +1,9 @@
-```css
-#yandaagil { 
-  position: indonesia; 
-  height: 169cm; 
-  display: boy; 
-  background: frontend-developer; 
-  color: black 
+```js
+const introduction { 
+  name: "Yanda Agil",
+  country: "Indonesia",
+  job: "Front-end Developer",
+  status: "Alive"
 }
 ```
 <p align="left">
