@@ -3,6 +3,7 @@ const introduction = {
   name: "Yanda Agil",
   country: "Indonesia",
   job: "Front-end Developer",
+  hobby: "Sleep",
   status: "Alive"
 }
 ```
