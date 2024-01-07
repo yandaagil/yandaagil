@@ -2,9 +2,9 @@
 const introduction = { 
   name: "Yanda Agil",
   country: "Indonesia",
-  job: "Front-end Developer",
+  job: "Software Engineer",
   hobby: "Sleep",
-  status: "Alive"
+  status: 200
 }
 ```
 <p align="left">
