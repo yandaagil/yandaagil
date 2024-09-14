@@ -7,7 +7,7 @@ const introduction = {
 }
 ```
 
----
+## 💻 Tech Stack
 <div>
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript" />
@@ -30,13 +30,8 @@ const introduction = {
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap" />
 </div>
 
----
-
+## 📊 Github Stats
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yandaagil&show_icons=true&theme=github_dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yandaagil&layout=compact&langs_count=8&theme=github_dark"/>
 </div>
-
----
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yandaagil&count=7)
