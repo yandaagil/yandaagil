@@ -8,7 +8,6 @@ const introduction = {
 ```
 
 ---
-
 <div>
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript" />
@@ -16,34 +15,19 @@ const introduction = {
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react" />
   <img src="https://skillicons.dev/icons?i=next" height="40" alt="next" />
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel" />
-</div>
-
-<div>
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres" />
-</div>
-
-<div>
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express" />
   <img src="https://skillicons.dev/icons?i=next" height="40" alt="next" />
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel" />
-</div>
-
-<div>
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman" />
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma" />
-</div>
-
-<div>
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github" />
-</div>
-
-<div>
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap" />
 </div>
