@@ -22,8 +22,6 @@ const introduction = {
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express" />
-  <img src="https://skillicons.dev/icons?i=next" height="40" alt="next" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman" />
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
