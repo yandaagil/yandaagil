@@ -29,9 +29,3 @@ const introduction = {
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap" />
 </div>
-
-## 📊 Github Stats
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yandaagil&show_icons=true&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yandaagil&layout=compact&langs_count=8&theme=github_dark"/>
-</div>
